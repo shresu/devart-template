@@ -1,16 +1,16 @@
 {
-    "technologies": {
-        "apis": [
-            "insert apis"
+    "HTML 5": {
+        "facebook friendlist apis": [
+            "chat apis"
         ],
-        "platforms": [
+        "javascript": [
             "insert platforms"
         ],
-        "toolkits": [
-            "insert toolkits"
+        "Dreamweaver": [
+            "Notepad++"
         ]
     },
-    "themes": [
+    "HTML Theme": [
         "insert themes"
     ]
 }
